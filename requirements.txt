@@ -1,0 +1,9 @@
+openai-whisper==20231117
+torch==2.4.1
+TTS==0.22.0
+sounddevice==0.4.6
+soundfile==0.12.1
+pygame==2.5.2
+requests==2.31.0
+fastapi==0.111.0
+uvicorn==0.29.0
